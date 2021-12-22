@@ -1,2 +1,3 @@
-# arch-fynn
-Automated Arch Linux installation
+# ArchFynn
+
+> Automated Arch Linux installation
